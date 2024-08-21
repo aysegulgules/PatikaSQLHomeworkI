@@ -1,4 +1,4 @@
-<span style="font-size:0.5em;" > SQL Temelleri Ödevlerinde temal sq komutları ile sorgular oluşturdum.
+<span style="font-size:0.5em;" > SQL Temelleri Ödevlerinde temal sq komutları ile sorgular oluşturuldu.
 <H4>Sorgularda Kullanılan SQL Komutları</H4>
 Select<br>
 Where<br>
